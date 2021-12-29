@@ -1,5 +1,4 @@
 ## Igor Bindzei  
-![Alt-My photo](photo.png)
 Junior Frontend Developer
 ---
 Contact information:
@@ -34,3 +33,7 @@ const isPrime = (numb) => {
 + Hexlet
 + Code-basics  
 ===
+## Languages
++ English - A1
++ Russian - native speaker
++ Polish - A2
