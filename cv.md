@@ -3,7 +3,7 @@ Junior Frontend Developer
 ---
 Contact information:
 * Phone: +375298660293  
-* E-mail: mumijtrol25@gmail.com
+* E-mail: t86602935@gmail.com
 * Discord: IgorBindzei (@emnigor)  
 
 ## About Myself:
